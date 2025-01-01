@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pzy2000
-- 👀 I’m interested in publishing a new public chain
+- 👀 I’m interested in every interesting ML&DL
 - 🌱 I’m currently sleeping
 - 💞️ I’ll wake up at 2:00 UTC
 - 📫 Feel free to contact me at 2592532554@qq.com
