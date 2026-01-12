@@ -5,5 +5,5 @@
 - 📫 Feel free to contact me at 2592532554@qq.com
 
 ## My Programming Stats
-| <img align="center" width="100%" src="https://github-readme-stats-8c9fi3fvr-pzy2000s-projects-aab652d7.vercel.app/api?username=pzy2000&show_icons=true&theme=blue-green&count_private=false&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats" alt="My GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats-8c9fi3fvr-pzy2000s-projects-aab652d7.vercel.app/api/wakatime?username=pzy2000&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
+| <img align="center" width="100%" src="https://github-readme-stats-five-sigma-96.vercel.app/api?username=pzy2000&show_icons=true&theme=blue-green&count_private=false&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats" alt="My GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats-five-sigma-96.vercel.app/api/wakatime?username=pzy2000&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 | ------------- | ------------- |
